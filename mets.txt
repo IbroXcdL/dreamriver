@@ -1,0 +1,47 @@
+<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dream River - Your Destination for Inspiration and Creativity</title>
+        <meta name="description" content="Discover Dream River, a hub for inspiration, creativity, and resources to help you achieve your dreams. Explore articles, guides, and more.">
+        <meta name="keywords" content="Dream River, inspiration, creativity, personal growth, resources, guides, articles">
+        <meta name="author" content="Dream River Team">
+        <meta name="robots" content="index, follow">
+        <link rel="canonical" href="https://www.dreamriver.in/">
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Dream River Hotel - Book Your Stay Online">
+        <meta property="og:description" content="Dream River is a premier hotel offering comfortable stays and easy online booking. Reserve your room now at Dream River Hotel.">
+        <meta property="og:url" content="https://www.dreamriver.in/">
+        <meta property="og:image" content="https://www.dreamriver.in/og-image.jpg">
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Dream River Hotel - Book Your Stay Online">
+        <meta name="twitter:description" content="Dream River is a premier hotel offering comfortable stays and easy online booking. Reserve your room now at Dream River Hotel.">
+        <meta name="twitter:image" content="https://www.dreamriver.in/twitter-image.jpg">
+        <!-- Additional SEO meta tags -->
+        <meta http-equiv="content-language" content="en">
+        <meta property="og:site_name" content="Dream River Hotel">
+        <meta property="og:locale" content="en_IN">
+        <meta name="twitter:site" content="@DreamRiverHotel">
+        <meta name="twitter:creator" content="@DreamRiverHotel">
+        <link rel="icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+        <!-- Hotel Structured Data -->
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Hotel",
+          "name": "Dream River Hotel",
+          "url": "https://www.dreamriver.in/",
+          "description": "Dream River is a premier hotel offering comfortable stays and easy online booking.",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "123 River Road",
+            "addressLocality": "YourCity",
+            "addressRegion": "YourState",
+            "postalCode": "123456",
+            "addressCountry": "IN"
+          },
+          "telephone": "+91-1234567890",
+          "image": "https://www.dreamriver.in/og-image.jpg"
+        }
+        </script>
